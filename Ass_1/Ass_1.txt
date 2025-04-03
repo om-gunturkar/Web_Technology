@@ -1,0 +1,107 @@
+Website Evaluations
+
+1. Website: www.Amazon.com
+Purpose: E-commerce platform for online shopping.
+
+Likes:
+- User-friendly interface
+- Efficient search and filtering options
+- Secure payment gateway
+- Personalized recommendations
+
+Dislikes:
+- Cluttered homepage
+- Too many advertisements
+- Slow loading on low bandwidth
+
+Performance Check:
+- Navigation: Excellent
+- Speed: Good
+- Responsiveness: Excellent
+- Security: High
+
+---
+
+2. Website: www.Facebook.com
+Purpose: Social networking platform.
+
+Likes:
+- Engaging UI
+- Real-time updates
+- Interactive media sharing
+- Strong security features
+
+Dislikes:
+- Privacy concerns
+- Too many ads and sponsored posts
+- Frequent interface changes
+
+Performance Check:
+- Navigation: Good
+- Speed: Average
+- Responsiveness: Excellent
+- Security: Moderate
+
+---
+
+3. Website: www.Google.com
+Purpose: Search engine and online services provider.
+
+Likes:
+- Minimalist design
+- Fast loading speed
+- Intelligent search results
+- Secure browsing experience
+
+Dislikes:
+- Over-reliance on ads
+- Data collection concerns
+
+Performance Check:
+- Navigation: Excellent
+- Speed: Excellent
+- Responsiveness: Excellent
+- Security: High
+
+---
+
+4. Website: www.KJEI.edu.in/TCOER
+Purpose: Educational institution website.
+
+Likes:
+- Organized content
+- Easy access to academic information
+- Good use of images and banners
+
+Dislikes:
+- Slow loading speed
+- Outdated UI design
+- Lack of interactive elements
+
+Performance Check:
+- Navigation: Good
+- Speed: Poor
+- Responsiveness: Average
+- Security: Moderate
+
+---
+
+5. Website: www.eBay.com
+Purpose: Online marketplace for buying and selling products.
+
+Likes:
+- Detailed product descriptions
+- User reviews and ratings
+- Secure transaction system
+
+Dislikes:
+- Complicated return policies
+- High seller fees
+- Overwhelming product listings
+
+Performance Check:
+- Navigation: Good
+- Speed: Good
+- Responsiveness: Excellent
+- Security: High
+
